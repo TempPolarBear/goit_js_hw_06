@@ -4,9 +4,9 @@ GoIT JavaScript course homework.
 
 ## Topics
 
-- Классы и экземпляры
-- Класс для хранения данных
-- Класс `StringBuilder`
+- Classes and instances
+- A class for data storage
+- The `StringBuilder` class
 
 ## Technologies
 
